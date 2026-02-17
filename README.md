@@ -50,15 +50,13 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Yamini9984&show_icons=true&theme=default#gh-light-mode-only" />
-  <img src="https://github-readme-stats.vercel.app/api?username=Yamini9984&show_icons=true&theme=tokyonight#gh-dark-mode-only" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yamini9984&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yamini9984&layout=compact&theme=tokyonight" />
 </p>
 
----
 
 <h2 align="center">🔥 Streak Stats</h2>
 
