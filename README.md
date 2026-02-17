@@ -72,6 +72,11 @@
   <img src="https://leetcard.jacoblin.cool/221FA04617?theme=dark&font=Karma&ext=contest" />
 </p>
 
+<h2 align="center">🐍 Contribution Snake</h2>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Yamini9984/Yamini9984/output/github-contribution-grid-snake.svg" />
+</p>
 
 
 
