@@ -80,8 +80,8 @@
 <h2 align="center">📫 Contact Me</h2>
 
 <p align="center">
-  📧 elurinareshkumar505@gmail.com <br/>
-  💼 <a href="https://www.linkedin.com/">LinkedIn</a>
+  📧 yamini9984@gmail.com<br/>
+  💼 <a href="https://www.linkedin.com/in/katti-yamini-5a1433292/">LinkedIn</a>
 </p>
 
 ---
