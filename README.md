@@ -74,11 +74,11 @@
 
 ---
 
-<h2 align="center">🐍 Contribution Snake</h2>
-
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Yamini9984/Yamini9984/output/github-contribution-grid-snake.svg" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yamini9984&repo=my-project&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yamini9984&repo=4617&theme=tokyonight" />
 </p>
+
 
 ---
 
