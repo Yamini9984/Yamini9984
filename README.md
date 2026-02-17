@@ -15,6 +15,11 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=4000&color=36BCF7&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;MERN+Stack+Enthusiast;Machine+Learning+Learner;Problem+Solver" />
 </p>
 
+<!-- Coding GIF -->
+<p align="right">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="250"/>
+</p>
+
 ---
 
 <h2 align="center">🎮 GitHub Activity Game</h2>
@@ -29,8 +34,8 @@
 
 - Full Stack Developer (MERN)  
 - Machine Learning Enthusiast  
-- Love building real-world projects  
-- Interested in Web + AI + System Design  
+- Passionate about building real-world applications  
+- Interested in Web Development + AI + System Design  
 
 ---
 
@@ -63,6 +68,14 @@
 
 ---
 
+<h2 align="center">🧠 LeetCode Stats</h2>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/221FA04617?theme=dark&font=Karma&ext=contest" />
+</p>
+
+---
+
 <h2 align="center">🐍 Contribution Snake</h2>
 
 <p align="center">
@@ -80,6 +93,16 @@
 
 ---
 
+<h3 align="center">🌐 Deployments</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Vercel-Deployed-black?style=for-the-badge&logo=vercel"/>
+  <img src="https://img.shields.io/badge/Netlify-Deployed-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-Deployed-46E3B7?style=for-the-badge&logo=render&logoColor=white"/>
+</p>
+
+---
+
 <h2 align="center">📜 Certifications</h2>
 
 - Solutions Architecture Job Simulation – Forage  
@@ -93,6 +116,16 @@
 <p align="center">
   📧 <a href="mailto:yamini9984@gmail.com">yamini9984@gmail.com</a><br/>
   💼 <a href="https://www.linkedin.com/in/katti-yamini-5a1433292/">LinkedIn</a>
+</p>
+
+---
+
+<h2 align="center">📄 Resume</h2>
+
+<p align="center">
+  <a href="https://drive.google.com/file/d/YOUR_RESUME_ID/view?usp=sharing">
+    <img src="https://img.shields.io/badge/Download%20Resume-4285F4?style=for-the-badge&logo=google-drive&logoColor=white"/>
+  </a>
 </p>
 
 ---
